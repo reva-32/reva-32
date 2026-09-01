@@ -59,7 +59,7 @@ I am a 3rd-year **B.Tech Information Technology student at Pune Institute of Com
 
 ### 🟩 Contribution Activity
 
-[![Reva's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reva-32&theme=tokyo-night&hide_border=true)](https://github.com/reva-32)
+[![Reva's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reva-32&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 📊 GitHub Stats
 
